@@ -46,4 +46,12 @@ on
 single 
 newline?
 
-(No. But Pandoc \[[example](http://pandoc.org/try/?text=Break%0Aon%0Asingle%0Anewline&from=markdown_github&to=html)\] and atom's [markdown-preview](https://github.com/atom/markdown-preview) think otherwise.)
+(No, but Pandoc \[[example](http://pandoc.org/try/?text=Break%0Aon%0Asingle%0Anewline&from=markdown_github&to=html)\] and atom's [markdown-preview](https://github.com/atom/markdown-preview) think otherwise.))
+
+## Depends
+
+It turns out, GitHub _does_ break on single newline in parts of GitHub, like issue comments, but not in .md documents.
+
+https://github.com/gettalong/kramdown/issues/82#issuecomment-25339617
+
+
