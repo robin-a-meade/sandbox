@@ -19,8 +19,17 @@ or an empty header:
 
     #
 
-- [How can I write two separate blockquotes in sequence using markdown?](http://stackoverflow.com/questions/12979577/how-can-i-write-two-separate-blockquotes-in-sequence-using-markdown)  
- <sup>stackoverflow.com/q/12979577/1157557</sup>
+> [How can I write two separate blockquotes in sequence using markdown?](http://stackoverflow.com/questions/12979577/how-can-i-write-two-separate-blockquotes-in-sequence-using-markdown)  
+> <sup>stackoverflow.com/q/12979577/1157557</sup>
+
+> [Git - git-rebase Documentation](https://git-scm.com/docs/git-rebase)  
+> <sup>git-scm.com/docs/git-rebase</sup>  
+
+> [Git - git-rebase Documentation](https://git-scm.com/docs/git-rebase)  
+> <sup>git-scm.com/docs/git-rebase</sup>  
+
+
+<!-- -->
 
 > [Test-driven development](https://en.wikipedia.org/w/index.php?title=Test-driven_development&oldid=750634597)  
 > <sup>en.wikipedia.org/w/index.php?title=Test-driven_development</sup>  
