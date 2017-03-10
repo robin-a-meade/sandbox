@@ -8,7 +8,7 @@
 
 
 
-# List of links with exerpts
+# List of links with blockquotes
 
 
 To separate consecutive blockquotes, use a HTML comment:
