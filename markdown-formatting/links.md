@@ -11,7 +11,7 @@
 # List of links with blockquotes
 
 
-To separate consecutive blockquotes, use a HTML comment:
+To separate consecutive blockquotes, use an HTML comment:
 
     <!-- -->
     
